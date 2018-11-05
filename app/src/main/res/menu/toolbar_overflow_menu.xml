@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/overflowItem1"
+        android:title="Report App"
+        android:icon="@drawable/ic_report_black_24dp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/overflowItem2"
+        android:title="Contact Creator"
+        android:icon="@drawable/ic_local_phone_black_24dp"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none" >
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Main Screen" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_photo_camera_black_24dp"
+            android:title="Calculate Factorial/Fibonacci" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_cloud_black_24dp"
+            android:title="Check Weather" />
+    </group>
+</menu>
